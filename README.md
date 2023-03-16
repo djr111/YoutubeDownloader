@@ -2,7 +2,7 @@
 
 Download YT videos with python
 
-You might go travelling - internet coverage and data allowance might be questionable
+You might go for travelling - Internet coverage and data allowance might be questionable
 
 In this case you can download any video you want and store them on any device !
 
